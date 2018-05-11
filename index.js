@@ -1,4 +1,4 @@
-var recipes = {
+var obj = {
   cake: ['flour', 'chocolate']
 };
 
