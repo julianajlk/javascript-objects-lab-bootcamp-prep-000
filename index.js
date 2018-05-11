@@ -1,3 +1,3 @@
-var object = {
-  recipes: ['cake']
+var recipes = {
+  cake: ['flour', 'chocolate']
 };
